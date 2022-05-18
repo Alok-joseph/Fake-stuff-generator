@@ -17,3 +17,6 @@ Import package
 ## Author
 
 - [@ALok-joseph](https://www.github.com/Alok-joseph)
+
+## 🚀 About Me
+I'm a Coder who designs
