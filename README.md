@@ -3,3 +3,17 @@
 
 
 This Is a simple Fake generator Using [Faker](https://pypi.org/project/Faker/)
+## Installation
+
+Install Faker
+
+```bash
+ conda install -c conda-forge faker 
+```
+Import package
+```bash
+  from faker import Faker
+```
+## Author
+
+- [@ALok-joseph](https://www.github.com/Alok-joseph)
