@@ -20,3 +20,7 @@ Import package
 
 ## 🚀 About Me
 I'm a Coder who designs
+
+## 🛠 Skills
+Python
+
